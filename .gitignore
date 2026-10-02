@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.pytest_cache/
+catboost_info/
+.ipynb_checkpoints/
+data/processed/
+models/

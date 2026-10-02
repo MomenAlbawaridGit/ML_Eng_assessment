@@ -1,0 +1,11 @@
+model,fold,n,bias_pct,mape
+ridge_spline,wf1,9538,-0.768,1.99
+ridge_spline,wf2,9297,0.114,1.761
+ridge_spline,wf3,9379,-0.774,1.778
+ridge_spline,city,2477,-0.758,1.958
+ridge_spline,wf_mean,28214,-0.476,1.843
+abl_mi_level,wf1,9538,-1.578,2.13
+abl_mi_level,wf2,9297,-3.817,3.929
+abl_mi_level,wf3,9379,-4.371,4.395
+abl_mi_level,city,2477,-4.334,4.381
+abl_mi_level,wf_mean,28214,-3.255,3.485

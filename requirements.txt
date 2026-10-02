@@ -1,0 +1,14 @@
+# Developed on Python 3.13.1. Pins sit inside score.py's original ranges:
+# matplotlib>=3.8,<4  numpy>=1.26,<3  pandas>=2.0,<3
+matplotlib==3.11.2
+numpy==2.5.3
+pandas==2.3.3
+scikit-learn==1.9.1
+scipy==1.18.1
+joblib==1.6.0
+# only needed for the CatBoost rows of `python -m src.evaluate` (not for train/predict)
+catboost==1.2.10
+# only needed for `python -m src.report`
+python-docx==1.2.0
+# tests only
+pytest==9.1.1
